@@ -7,6 +7,6 @@ android desktop, web etc, applications functional,
 androiddev... 
 - How do I contact me? 
 email: fajarjulyana1@gmail.com
-ig: fajarjulyana@instagram.com
+ig: https://www.instagram.com/fajar.julyana/
 <!--- fajarjulyana/fajarjulyana is a dedicated repository because `README.md` 
 (this file) appears in your GitHub profile. You can click the Preview link to see your changes.
