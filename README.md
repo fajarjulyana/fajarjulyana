@@ -1,4 +1,14 @@
-<img src="https://z-p4-instagram.fcgk3-2.fna.fbcdn.net/v/t51.2885-19/s320x320/241314698_907866279802418_5389481939245217265_n.jpg?_nc_ht=z-p4-instagram.fcgk3-2.fna.fbcdn.net&_nc_cat=102&_nc_ohc=GwkuWHRRQ2cAX8m76i7&edm=ABfd0MgBAAAA&ccb=7-4&oh=98ccbde6313d5079cd6258388884438f&oe=618163BE&_nc_sid=7bff8">
+
+Wellcome to
+               ______  __  _____ ____  ______
+              / ____/ / / / ___// __ \/ ____/
+             / /___  / /  \__ \/ /_/ / /
+            / __/ /_/ /_ ___/ / _, _/ /___
+           /_/  \____/(_)____/_/ |_|\____/
+
+Tue Feb  8 23:12:19 WIB 2022
+
+github #fajar.julyana instagram #fajar.julyana whatsapps #+6281804411937
 - Hi, I'm @fajarjulyana 
 - I'm interested in linux programming, programming modules etc... 
 - I'm currently studying Advanced c/c++ programming modules, 
