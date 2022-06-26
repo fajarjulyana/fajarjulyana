@@ -1,27 +1,15 @@
-Wellcome to
+### Hello there, I'm Fajar Julyana ~ FJ 👏
 
-               ______  __  _____ ____  ______
+## I'm a Back End Developer and Freelancer Online.
+ ~ 👨🏻‍💻 I work freelance, on several freelance provider sites.
+ ~ 📖 I'm currently learning everything.
+ ~ 🔬 I'm currently taking online learning about software development at several learning provider sites.
+ ~ 🎸 I like playing guitar and traveling by motorbike.
 
-              / ____/ / / / ___// __ \/ ____/
-
-             / /___  / /  \__ \/ /_/ / /
-
-            / __/ /_/ /_ ___/ / _, _/ /___
-
-           /_/  \____/(_)____/_/ |_|\____/
-
-Tue Feb  8 23:12:19 WIB 2022
-
-github #fajar.julyana instagram #fajar.julyana whatsapps #+6281804411937
-- Hi, I'm @fajarjulyana 
-- I'm interested in linux programming, programming modules etc... 
-- I'm currently studying Advanced c/c++ programming modules, 
-and gaining experience regarding additional modules in unix applications, 
-android desktop, web etc, applications functional,
-- ️ I want to collaborate on lmms, archlinux, adafruit,ir-remote,
-androiddev... 
-- How do I contact me? 
-email: fajarjulyana1@gmail.com
-ig: https://www.instagram.com/fajar.julyana/
-<!--- fajarjulyana/fajarjulyana is a dedicated repository because `README.md` 
-(this file) appears in your GitHub profile. You can click the Preview link to see your changes.
+### Connect with me
+ [<img align="left" alt="Fajar Julyana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [LinkedIn]
+ [<img align="left" alt="Fajar Julyana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] [Instagram]
+ 
+ <br/>
+ [LinkedIn]: https://www.linkedin.com/in/fajar-julyana-753a62239
+ [Instagram]: https://www.instagram.com/fajar.julyana/
