@@ -7,9 +7,9 @@
  ~ 🎸 I like playing guitar and traveling by motorbike.<br/>
 
 ### Connect with me
- [<img align="left" alt="Fajar Julyana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] (LinkedIn)
- [<img align="left" alt="Fajar Julyana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] (Instagram)
+ [<img align="left" alt="Fajar Julyana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] {LinkedIn}
+ [<img align="left" alt="Fajar Julyana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />] {Instagram}
  
  <br/>
- (LinkedIn): https://www.linkedin.com/in/fajar-julyana-753a62239
- (Instagram): https://www.instagram.com/fajar.julyana/
+ {LinkedIn}: https://www.linkedin.com/in/fajar-julyana-753a62239
+ {Instagram}: https://www.instagram.com/fajar.julyana/
