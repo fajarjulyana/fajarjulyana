@@ -6,6 +6,9 @@
 - 🔬 I'm currently taking online learning about software development at several learning provider sites.
 - 🎸 I like playing guitar and traveling by motorbike.
 
+## About me
+<p>Coding is my hobby, not making money is okay. <br/> because coding practice I'm about practicing to practice and keep going in order to get very satisfying results.</p>
+
 ### Connect with me
 [<img align="left" alt="Fajar Julyana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Fajar Julyana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
