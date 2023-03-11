@@ -1,6 +1,6 @@
 ### Hello there, I'm Fajar Julyana ~ FJ 👏
 
-## I'm a Back End Developer and Freelancer Online.
+## I'm a Beginner Audio Plugin Developer, Intermediate Back End Developer and Freelancer Online.
 - 👨🏻‍💻 I work freelance, on several freelance provider sites.
 - 📖 I'm currently learning everything.
 - 🔬 I'm currently taking online learning about software development at several learning provider sites.
