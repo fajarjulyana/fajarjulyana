@@ -15,5 +15,5 @@
 
 <br/>
 
-[instagram]: https://www.instagram.com/fajar.julyana/
+[instagram]: https://www.instagram.com/fajarjulyana/
 [linkedin]: https://linkedin.com/in/fajar-julyana-753a62239
