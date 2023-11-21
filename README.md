@@ -7,11 +7,11 @@
 - 🎸 I like playing guitar and traveling by motorbike.
 
 ## About me
-<p>Coding is my hobby, not making money is okay. <br/>because coding taught me about practicing practice and keep practicing in order to get very satisfying results.</p>
+<p>Coding is my hobby, <br/>coding taught me about practicing practice and keep practicing in order to get very satisfying results.</p>
 
 ### Connect with me
-[<img align="left" alt="Fajar Julyana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Fajar Julyana | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Fajar Julyana | LinkedIn" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Fajar Julyana | Instagram" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
