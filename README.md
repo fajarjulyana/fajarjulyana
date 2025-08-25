@@ -95,7 +95,7 @@ Jika kamu suka dengan karya saya dan ingin mendukung pengembangan lebih lanjut:
 Atas Nama: **FAJAR JULYANA**  
 No. Rekening: **1320026475575**  
 
-<img src="https://id.wikipedia.org/wiki/Berkas:Bank_Mandiri_logo_2016.svg" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bank_Mandiri_logo_2016.svg/640px-Bank_Mandiri_logo_2016.svg.png" width="150"/>
 
 ---
 
