@@ -1,7 +1,7 @@
 # 🌐 Fajar Julyana
 
 Halo! 👋  
-Saya **Fajar Julyana** Lahir 30 July 1999, seorang **Entrepreneur, Full-Stack Developer, dan Audio DSP Engineer** dari Lembang, Jawa Barat – Indonesia.  
+Saya **Fajar Julyana** Lahir 30 Juli 1999, seorang **Entrepreneur, Full-Stack Developer, dan Audio DSP Engineer** dari Lembang, Jawa Barat – Indonesia.  
 Saya memiliki passion dalam **software development, bisnis digital, dan audio technology**, serta aktif membangun solusi kreatif untuk UMKM dan komunitas musik.
 
 ---
