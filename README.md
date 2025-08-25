@@ -1,4 +1,4 @@
-# 🌐 Fajar Julyana – Portfolio & CV
+# 🌐 Fajar Julyana
 
 Halo! 👋  
 Saya **Fajar Julyana** (1999), seorang **Entrepreneur, Full-Stack Developer, dan Audio DSP Engineer** dari Lembang, Jawa Barat – Indonesia.  
