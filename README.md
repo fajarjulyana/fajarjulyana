@@ -18,18 +18,18 @@ Saya memiliki passion dalam **software development, bisnis digital, dan audio te
 
 ## 💼 Pengalaman Kerja
 ### **Fajar Mandiri Store** – Founder & Owner  
-*2019 – Sekarang*  
+*2025 – Sekarang*  
 - Mengelola bisnis fotokopi, printing, dan digital services.  
 - Membuat sistem manajemen toko sendiri (kasir, inventori, laporan).  
 - Memberdayakan UMKM lokal dengan layanan digital.  
 
 ### **Full-Stack Developer (Freelance & Open Source)**  
-*2018 – Sekarang*  
+*2024 – Sekarang*  
 - Membangun aplikasi berbasis **Flask, SQLite, MySQL**.  
 - Membuat sistem kasir, integrated business apps, dan aplikasi cetak foto.  
 - Aktif membagikan proyek open-source di GitHub.  
 
-### **Audio DSP & Plugin Developer – QWare, Inc**  
+### **Audio DSP & Plugin Developer – QWare, Inc (Arvin Studio)**  
 *2023 – Sekarang*  
 - Mengembangkan plugin audio (synth, delay, distortion, guitar amp, reverb).  
 - Fokus pada **C++ (JUCE Framework & VST3 SDK)**.  
