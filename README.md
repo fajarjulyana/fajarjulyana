@@ -103,3 +103,8 @@ No. Rekening: **1320026475575**
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/fajarjulya1)
 
 ---
+### 🎁 Saweria
+[![Saweria](https://yt3.googleusercontent.com/ytc/AIdro_mEjykY72F9LBkHR0aSTkWgwxOZr-D4mbv_FU1rSw=s900-c-k-c0x00ffffff-no-rj)](https://saweria.co/fajarjulyana)
+
+---
+✨ *Terima kasih sudah mampir! Mari berkolaborasi dan berinovasi bersama.*
