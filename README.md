@@ -104,7 +104,7 @@ No. Rekening: **1320026475575**
 
 ---
 ### 🎁 Saweria
-[![Saweria](https://yt3.googleusercontent.com/ytc/AIdro_mEjykY72F9LBkHR0aSTkWgwxOZr-D4mbv_FU1rSw=s900-c-k-c0x00ffffff-no-rj)](https://saweria.co/fajarjulyana)
+[![Saweria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgKi7Mc1FoMIv29bNffen93Td9Cvw7pPqOA&s)](https://saweria.co/fajarjulyana)
 
 ---
 ✨ *Terima kasih sudah mampir! Mari berkolaborasi dan berinovasi bersama.*
