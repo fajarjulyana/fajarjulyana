@@ -61,21 +61,17 @@ Minat khusus saya ada di bidang:
 Berikut daftar proyek utama saya di GitHub:
 
 ### 🔹 **Bisnis & Manajemen**
-- [KasirApp](https://github.com/fajarjulyana/KasirApp) – Aplikasi kasir dengan Python + SQLite  
-- [Akumulasi-Harga-Produk](https://github.com/fajarjulyana/Akumulasi-Harga-Produk) – Sistem kalkulasi biaya produksi  
-- [ServiceNote](https://github.com/fajarjulyana/ServiceNote) – Aplikasi pencatatan service  
-- [Fajar-Mandiri-Store-Management-System](https://github.com/fajarjulyana/Fajar-Mandiri-Store-Management-System) – Business apps dengan Flask & SQLite  
-- [Integrated-Business-Management-System](https://github.com/fajarjulyana/Integrated-Business-Management-System) – Semua aplikasi bisnis terintegrasi  
+- [ApotekKasir](https://github.com/fajarjulyana/ApotekKasir) – Sistem manajemen apotek yang komprehensif dengan fitur manajemen pelanggan, dokter, resep dan inventory
+- [cafe-billing](https://github.com/fajarjulyana/cafe-billing) – Sistem billing warnet GTK3/C++ lengkap mirip GBilling.  
 
 ### 🔹 **Audio DSP & Plugin**
-- [Distortion.vst3](https://github.com/fajarjulyana/Distortion.vst3) – Plugin distorsi gitar  
-- [DelayMic](https://github.com/fajarjulyana/DelayMic) – Delay dengan tone control  
-- [GuitarAmp](https://github.com/fajarjulyana/GuitarAmp) – Amplifier gitar digital dengan efek  
-- [Synthesizer JUCE](https://github.com/fajarjulyana/Synthesizer-JUCE) – Plugin synthesizer dengan MIDI support  
+- [ArvinDistortion](https://github.com/fajarjulyana/ArvinDistortion) – Plugin distorsi gitar  
+- [ArvinDelay](https://github.com/fajarjulyana/ArvinDelay) – Delay dengan tone control  
+- [GuitarAmpIR ](https://github.com/fajarjulyana/GuitarAmpIR ) – Amplifier gitar digital dengan efek dengan IR (Impulse Response)
+- [ThreeOscSynth JUCE](https://github.com/fajarjulyana/ThreeOscSynth) – Plugin synthesizer dengan MIDI support  
 
 ### 🔹 **Website & Tools**
 - [fajarmandiri.store](https://github.com/fajarjulyana/fajarmandiri.store) – Website resmi toko  
-- [PhotoPrintApp](https://github.com/fajarjulyana/PhotoPrintApp) – Aplikasi cetak foto (gtkmm + cairo)  
 
 ---
 
