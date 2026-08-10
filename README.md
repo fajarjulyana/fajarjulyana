@@ -12,7 +12,7 @@ Saya memiliki passion dalam **software development, bisnis digital, dan audio te
 - 🎶 Founder **QWare, Inc** – Startup software audio plugin DSP  
 - 📍 Lokasi: Lembang, Jawa Barat, Indonesia  
 - 📞 WhatsApp: [+62 818-0441-1937](https://wa.me/6281804411937)  
-- 🌐 Website: [fajarmandiri.store](https://fajarmandiri.store)  
+- 🌐 Website: [fajarmandiri.online](https://fajarmandiri.online)  
 
 ---
 
