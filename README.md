@@ -82,25 +82,4 @@ Berikut daftar proyek utama saya di GitHub:
 -  YouTube: [@fajarjulyana](https://youtube.com/@fajarjulyana)  
 -  GitHub: [github.com/fajarjulyana](https://github.com/fajarjulyana)  
 
-##  Dukung Saya
-
-Jika kamu suka dengan karya saya dan ingin mendukung pengembangan lebih lanjut:  
-
-###  Rekening Bank
-**Bank Mandiri**  
-Atas Nama: **FAJAR JULYANA**  
-No. Rekening: **1320026475575**  
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bank_Mandiri_logo_2016.svg/640px-Bank_Mandiri_logo_2016.svg.png" width="150"/>
-
----
-
-###  Buy Me a Coffee
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/fajarjulya1)
-
----
-###  Saweria
-[![Saweria](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgKi7Mc1FoMIv29bNffen93Td9Cvw7pPqOA&s)](https://saweria.co/fajarjulyana)
-
----
  *Terima kasih sudah mampir! Mari berkolaborasi dan berinovasi bersama.*
